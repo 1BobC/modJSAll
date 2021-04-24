@@ -5,6 +5,7 @@ udemy Modern Javascript course Shaun Pelling netninja sections 1 to 21
 "Create files for #11 JS Dates and times Start 82. Dates & Times in JavaScript Udeme is not showing vids so am reading transcripts and watching other vids Github is not showing code after #81"
 "Udemy and github showing tutorials and code again Reprieve 10 Todos #81 searching and filtering Continue with Section 11 Dates and Times"
 "Complete section 11 dates and times Start section 12: #86 asynchronous JS to #87 action example"
+"Complete section 12 up to #89 Making an HTTP request using JSONPlaceholder"
 
 
 

@@ -88,4 +88,17 @@
 // console.log(4.);
 // document.getElementById("bob14").innerHTML= 4.;
 
-//#87 What are HTTP requests?
+//#88 What are HTTP requests?
+//#89 Making an HTTP request using JSONPlaceholder.
+const request= new XMLHttpRequest();
+    request.addEventListener('readystatechange', () => {
+        //  console.log(request, request.readyState);
+        //  document.getElementById("bob15").innerHTML= "Request reaches state: " + (request, request.readyState) + ". Completed";
+         if(request.readyState === 4){
+             console.log(request, request.responseText);
+         }
+    });
+    request.open('GET', 'https://jsonplaceholder.typicode.com/todos/');
+    request.send();
+
+//#90 Response Status
