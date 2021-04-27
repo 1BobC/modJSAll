@@ -6,6 +6,8 @@ udemy Modern Javascript course Shaun Pelling netninja sections 1 to 21
 "Udemy and github showing tutorials and code again Reprieve 10 Todos #81 searching and filtering Continue with Section 11 Dates and Times"
 "Complete section 11 dates and times Start section 12: #86 asynchronous JS to #87 action example"
 "Complete section 12 up to #89 Making an HTTP request using JSONPlaceholder"
+"Complete section 12 up to #97 Async & Await - no coding just look and listen - only #98 Throwing & Catching Errors to go in s12"
+"Now on section 13 Weather app starting #102 Get City API Call with script folder with app and forecast files - wild ride eh!"
 
 
 

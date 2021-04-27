@@ -1,0 +1,12 @@
+/* Section 13: #99 Project Preview & Setup Project - Weather App*/
+/*#100 HTML & CSS Template*/
+body{
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+  }
+  .container{
+    max-width: 400px;
+  }
+/*#101 AccuWeather API*/
+/*#102 Get City API Call */
